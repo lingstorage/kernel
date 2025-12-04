@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+.history/
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
